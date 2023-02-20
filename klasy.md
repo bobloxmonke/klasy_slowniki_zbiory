@@ -63,7 +63,7 @@ private:
 };
 ```
 
-**Dziedzictwo klass**
+**Dziedziczenie klass**
 
 W C++ klasy mogą dziedziczyć zmienne oraz metody.  
 Klasy podstawowe moga także posiadać metody wirtualne,  
